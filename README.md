@@ -5,11 +5,6 @@
 The COVID-19 pandemic has reshaped various industries worldwide, and the property rental market is no exception. In Singapore, the effects of the pandemic on Airbnb listings have been both complex and far-reaching. The prospective property owners, who once aimed to maximize profits through precise location selection, are now facing a new array of challenges and opportunities. This analysis, conducted by DQLab, aims to provide a comprehensive examination of Singapore's Airbnb property data during these unprecedented times. Utilizing three types of data, including detailed listings, historical rental data, and neighborhood mapping, this study will uncover insights into rental trends, impacts on profitability, and strategies to navigate the evolving landscape. The understanding gained from this analysis will assist property owners in making informed decisions in a market transformed by the global health crisis.
 
 ### Data Overview 
-
-Certainly! Here's the dataset overview with the fields organized into tables:
-
-### Dataset Overview
-
 #### Data 1: DQLab Airbnb Listing Dataset
 This dataset contains information about Airbnb listings in Singapore.
 
