@@ -47,7 +47,7 @@ The third dataset contains mapping of Singapore regions based on their neighborh
   | 1  | Neighborhood_group| Singapore region (North/East/South/West/North-East) |
   | 2  | neighborhood      | Singapore neighborhoods name                 |
 
-### Step-by-Step Interpretation
+### Step by Step Analysis
 1. **Import Package**: Importing the necessary libraries for the analysis.
 2. **Read Data**: Reading the data from the provided files.
 3. **Check Missing Values**: Checking if there are any missing values in the data.
