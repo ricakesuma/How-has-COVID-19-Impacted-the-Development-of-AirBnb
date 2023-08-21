@@ -56,7 +56,7 @@ The third dataset contains mapping of Singapore regions based on their neighborh
 6. **Convert Data Type**: Converting data types if needed.
 7. **Airbnb Price Distribution**: Analyzing the price distribution of Airbnb in Singapore.
 
-### Interpretation During COVID-19
+### Interpretation
 - **Pandemic Impact on Prices**: COVID-19 may have influenced price distribution, with a preference for cheaper prices.
 - **Location and Review Factors**: During the pandemic, location and reviews may have become more significant factors, especially if related to cleanliness and safety.
 
